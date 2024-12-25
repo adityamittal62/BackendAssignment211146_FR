@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "distance": "10 km",
+    "fare": "$15",
+    "details": "Ride from Point A to Point B."
+  },
+  {
+    "id": "2",
+    "distance": "25 km",
+    "fare": "$40",
+    "details": "Ride from Point C to Point D."
+  }
+]
